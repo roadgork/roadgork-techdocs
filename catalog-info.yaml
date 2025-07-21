@@ -10,4 +10,3 @@ spec:
   type: documentation
   lifecycle: production
   owner: team-gork
-EOF < /dev/null
