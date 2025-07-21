@@ -1,6 +1,6 @@
 # RoadGork Documentation
 
-Welcome to RoadGork documentation\!
+Welcome to RoadGork documentation!
 
 ## Overview
 
@@ -18,15 +18,14 @@ This is a sample documentation site that demonstrates how to set up TechDocs for
 2. Push these files to your repository
 3. In Roadie, import using the catalog-info.yaml URL:
    ```
-   https://github.com/YOUR_USERNAME/roadgork-techdocs/blob/main/catalog-info.yaml
+   https://github.com/roadgork/roadgork-techdocs/blob/main/catalog-info.yaml
    ```
-4. Your documentation will appear in the TechDocs section\!
+4. Your documentation will appear in the TechDocs section!
 
 ## Testing the Setup
 
-If you can see this page in Roadie's TechDocs, then everything is working correctly\! 🎉
+If you can see this page in Roadie's TechDocs, then everything is working correctly! 🎉
 
 ---
 
-_Generated with love by RoadGork team_
-EOF < /dev/null
+*Generated with love by RoadGork team*
