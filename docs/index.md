@@ -28,5 +28,5 @@ If you can see this page in Roadie's TechDocs, then everything is working correc
 
 ---
 
-*Generated with love by RoadGork team*
+_Generated with love by RoadGork team_
 EOF < /dev/null
