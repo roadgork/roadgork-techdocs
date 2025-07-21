@@ -1,0 +1,6 @@
+site_name: RoadGork Documentation
+nav:
+  - Home: index.md
+theme:
+  name: material
+EOF < /dev/null

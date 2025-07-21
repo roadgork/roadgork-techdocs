@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: roadgork-techdocs
+  title: RoadGork Documentation
+  description: Sample tech docs for testing Roadie import
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: production
+  owner: team-gork
+EOF < /dev/null
